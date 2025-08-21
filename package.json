@@ -2,6 +2,8 @@
   "name": "to-do-list",
   "private": true,
   "type": "module",
+  "version": "0.0.1",
+  "author": "Hunde Desalegn",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
