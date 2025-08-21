@@ -9,8 +9,8 @@ import BackgroundImage from "~/components/background-img";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "todo-app" },
-    { name: "description", content: "Welcome to the todo-app!" },
+    { title: "todos" },
+    { name: "description", content: "Your Todos List" },
   ];
 }
 
